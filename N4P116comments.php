@@ -1,0 +1,31 @@
+<?php
+echo "Create a list of the 10 most important concepts about what you’ve learned in this  document";
+echo "<br>";
+echo "1-Crear el formulario";
+echo "<br>";
+echo "2-class method";
+echo "<br>";
+echo "3-Post";
+echo "<br>";
+echo "4-input";
+echo "<br>";
+echo "5-textarea";
+echo "<br>";
+echo "6-select";
+echo "<br>";
+echo "7-option";
+echo "<br>";
+echo "8-colspan";
+echo "<br>";
+echo "9-print_r";
+echo "<br>";
+echo "10-formproccess";
+echo "<br>";
+echo "Qualifies the document:6";
+echo "<br>";
+echo "Teacher's explanation:6";
+echo "<br>";
+echo "Explain an improvement";
+echo "<br>";
+echo "La practica era rapida y eso se agradece";
+?>
